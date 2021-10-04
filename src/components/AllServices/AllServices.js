@@ -1,7 +1,7 @@
 import React from 'react';
-import "./CourseCart.css"
+import "./AllServices.css"
 
-const CourseCart = (props) => {
+const AllServices = (props) => {
     const { name, price, img } = props.course
     return (
         <div className="border border-dark">
@@ -13,8 +13,7 @@ const CourseCart = (props) => {
                 <p>Price: {price}</p>
             </div>
         </div>
-
     );
 };
 
-export default CourseCart;
+export default AllServices;
