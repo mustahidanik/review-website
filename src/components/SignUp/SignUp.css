@@ -1,0 +1,8 @@
+.sign-button{
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    border-radius: 20px;
+}

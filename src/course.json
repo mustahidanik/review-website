@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "IELTS",
+        "price": 2000,
+        "img": " https://leverageedu.com/blog/wp-content/uploads/2020/04/IELTS-Exam-Pattern.jpg"
+    },
+    {
+        "id": 2,
+        "name": "SAT",
+        "price": 2500,
+        "img": " https://www.jeduka.com/storage/newsletter/1599897667_sat_exam.png"
+    },
+    {
+        "id": 3,
+        "name": "TOEFL",
+        "price": 3500,
+        "img": " https://www.jeduka.com/storage/newsletter/1599895068_ielts_exam.png"
+    },
+    {
+        "id": 4,
+        "name": "GMAT",
+        "price": 4000,
+        "img": " https://www.jeduka.com/storage/newsletter/1603714114_GMAT.png"
+    },
+    {
+        "id": 5,
+        "name": "REGULAR MBA",
+        "price": 7000,
+        "img": " https://www.postgrad.com/filer/canonical/1627393288/9958/"
+    },
+    {
+        "id": 6,
+        "name": "EVENING MBA",
+        "price": 10000,
+        "img": " https://thefinancialexpress.com.bd/uploads/1589384954.jpg"
+    },
+    {
+        "id": 7,
+        "name": "GRAPHICS DESIGN",
+        "price": 12000,
+        "img": " https://sgp1.digitaloceanspaces.com/cosmosgroup/news/1071218_Graphic-Design.jpg"
+    },
+    {
+        "id": 8,
+        "name": "CSE SCIENCE",
+        "price": 20000,
+        "img": " https://www.amrita.edu/sites/default/files/styles/news_banner_imagesbreakpoints_theme_norma_tablet_1x/public/why-cse-isnt-the-only-option-engineers.jpg?itok=0x5YUIH7&timestamp=1621076199"
+    },
+    {
+        "id": 9,
+        "name": "WEB DEVELOPING",
+        "price": 15000,
+        "img": " https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png"
+    },
+    {
+        "id": 10,
+        "name": "BASIC PHILOSOPHY",
+        "price": 11000,
+        "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMpIUu8o7WfQGIAtE3Ax2iWB12lLBF7mIUmQ&usqp=CAU"
+    }
+]

@@ -1,0 +1,18 @@
+.card{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    border: none;
+}
+.side-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: tomato;
+   
+}
+.cart{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 20px;
+    
+}

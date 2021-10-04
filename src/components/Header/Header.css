@@ -1,0 +1,25 @@
+.banner {
+    background-image: url("https://1rnx9o2dejwa1m0bxp3kachm-wpengine.netdna-ssl.com/wp-content/uploads/sites/31/2019/02/world-globe-book-education-school-concept_36051-153.jpg");
+    height: 780px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 20px;
+  }
+  .title {
+    color: white;
+    font-weight: bold;
+    font-size: 59px;
+  }
+  .care{
+    color: tomato;
+  }
+  .header nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    padding: 5px;
+    font-size: 20px;
+}
+  
