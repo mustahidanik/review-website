@@ -4,7 +4,7 @@ import "./CourseCart.css"
 const CourseCart = (props) => {
     const { name, price, img } = props.course
     return (
-        <div className="border border-dark">
+        <div className="border border-light bg-light">
             <div>
                 <img className="w-100 card-img" src={img} alt="" />
             </div>
